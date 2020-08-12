@@ -1,7 +1,7 @@
 # quantfinance
 Quantitative finance and trading system development 
 
-Prep: Finantial data collection, data cleaning, data preperation fundamentals 
+Prep: Finantial data collection, storage, data cleaning, data preperation fundamentals 
 
 1.0s Classic models: SMA, Momentum, Reversal, Pair Trading Strategy 
 
