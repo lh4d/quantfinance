@@ -1,7 +1,7 @@
 # quantfinance
 Quantitative finance and trading system development 
 
-Prep: Finantial data collection, storage, data cleaning, data preperation fundamentals 
+Preq: Finantial data collection, storage, data cleaning, data preperation fundamentals 
 
 1.0s Classic models: SMA, Momentum, Reversal, Pair Trading Strategy 
 
@@ -9,4 +9,4 @@ Prep: Finantial data collection, storage, data cleaning, data preperation fundam
 
 3.0s Trend Following System: A CTA modified Stock Aberration Trading System 
 
-4.0s Big Data & Machine Learning
+4.0s Big Data & Machine Learning: NLP, Logistic, SVM, Random Forest, XGboost, CNN, etc.
